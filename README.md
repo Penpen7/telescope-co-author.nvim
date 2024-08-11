@@ -1,7 +1,7 @@
 # telescope-co-author.nvim
 
 telescope-co-author.nvim is a plugin for [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) that provides a picker for selecting co-authors for your git commits.
-
+[![asciicast](https://asciinema.org/a/671694.svg)](https://asciinema.org/a/671694)
 # Get Started
 
 ```lua
